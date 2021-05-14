@@ -1,6 +1,6 @@
 # Machine_Learning_Seminar
 
-Author: Tomer Himi 204234454
+Author: Tomer Himi 204234454.
 
 It's obvious that supervised representation learning is still better, but unsupervised representation is catching up and may soon replace the need for many labeled samples.
 
@@ -9,8 +9,8 @@ It's obvious that supervised representation learning is still better, but unsupe
 How to run simCLR code?
 1. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
 2. Run the system with the either commands.
-- For the default run with 20 epochs and a validation size of 0.2: python main.py.
-- For a custom run: python main.py {number of epochs} {size of validation size}.
+  - For the default run with 20 epochs and a validation size of 0.2: python main.py.
+  - For a custom run: python main.py {number of epochs} {size of validation size}.
 
 **Description:**
 
