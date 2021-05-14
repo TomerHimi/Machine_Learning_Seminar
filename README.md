@@ -11,7 +11,8 @@ For the default run with 20 epochs and a validation size of 0.2:
 For a custom run:
 - python main.py {number of epochs} {size of validation size}
 
-**Description**
+**Description:**
+
 simCLR linear evaluation using pre-trained weights by https://github.com/google-research/simclr. This file is added as a resource to my seminar presentation at Bar-Ilan University. 
 
 File locations:
