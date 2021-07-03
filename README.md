@@ -5,8 +5,7 @@ Author: Tomer Himi 204234454.
 It's obvious that supervised representation learning is still better, but unsupervised representation is catching up and may soon replace the need for many labeled samples.
 
 **Notes:**
-
-When reviewing a presentation pay attention to the explanations and additional information displayed below each slide!
+When reviewing a presentation pay attention to the explanations and additional information displayed below each slide.
 
 **How to run simCLR code?**
 1. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
@@ -24,6 +23,6 @@ File locations:
 - ../checkpoints
 
 I was using a pre-trained ResNet50 (x1) as the encoding-head and fine-tuning a multiclass logistic regression over it.
-I have decided to use the STL-10 dataset. Everything other than the model checkpoint will be downloaded automatically.
+I have decided to use the STL-10 dataset as my second dataset. Everything other than the model checkpoint will be downloaded automatically.
 
 Requirement: PyTorch.
