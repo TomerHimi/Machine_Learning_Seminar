@@ -1,6 +1,6 @@
 # Machine_Learning_Seminar
 
-Author: Tomer Himi 204234454.
+Author: Tomer Himi.
 
 It's obvious that supervised representation learning is still better, but unsupervised representation is catching up and may soon replace the need for many labeled samples.
 
