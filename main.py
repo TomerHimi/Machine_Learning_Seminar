@@ -8,7 +8,7 @@ simCLR linear evaluation using pre-trained weights by https://github.com/google-
   Please download this file and extract its contents in the "checkpoints" folder.
 
 this file is added as a resource to my seminar presentation at Bar-Ilan University.
-Author : Yuval Lavie
+Author : Tomer Himi
 
 File locations:
     - ../data
