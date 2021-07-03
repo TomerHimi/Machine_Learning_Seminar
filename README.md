@@ -6,7 +6,7 @@ It's obvious that supervised representation learning is still better, but unsupe
 
 **Notes:**
 
-1) When reviewing a presentation pay attention to the explanations and additional information displayed below each slide.
+1) When reviewing the presentation file, pay attention to the explanations and additional information displayed below each slide.
 
 2) **How to run simCLR code?**
 
