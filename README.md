@@ -6,6 +6,8 @@ It's obvious that supervised representation learning is still better, but unsupe
 
 **Notes:**
 
+When reviewing a presentation pay attention to the explanations and additional information displayed below each slide.
+
 How to run simCLR code?
 1. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
 2. Run the system with the either commands:
