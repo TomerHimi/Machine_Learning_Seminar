@@ -10,11 +10,11 @@ It's obvious that supervised representation learning is still better, but unsupe
 
 2) **How to run simCLR code?**
 
-a. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
+    a. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1                                                                 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
 
-b. Run the system with the either commands:
-    - For the default run with 20 epochs and a validation size of 0.2- python main.py.
-    - For a custom run: python main.py {number of epochs} {size of validation size}.
+    b. Run the system with the either commands:
+        - For the default run with 20 epochs and a validation size of 0.2- python main.py.
+        - For a custom run: python main.py {number of epochs} {size of validation size}.
 
 3) **Description:**
 
