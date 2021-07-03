@@ -5,15 +5,16 @@ Author: Tomer Himi 204234454.
 It's obvious that supervised representation learning is still better, but unsupervised representation is catching up and may soon replace the need for many labeled samples.
 
 **Notes:**
-When reviewing a presentation pay attention to the explanations and additional information displayed below each slide.
 
-**How to run simCLR code?**
-1. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
-2. Run the system with the either commands:
+1) When reviewing a presentation pay attention to the explanations and additional information displayed below each slide.
+
+2)**How to run simCLR code?**
+a. Download the model weights from the link below and extract its content into the checkpoints folder - ResNet50x1 https://drive.google.com/file/d/13x2-QBIF1s6EkTWf1AjHEGUc4v047QVF/view?usp=sharing.
+b. Run the system with the either commands:
     - For the default run with 20 epochs and a validation size of 0.2- python main.py.
     - For a custom run: python main.py {number of epochs} {size of validation size}.
 
-**Description:**
+3)**Description:**
 
 simCLR linear evaluation using pre-trained weights by https://github.com/google-research/simclr. This file is added as a resource to my seminar presentation at Bar-Ilan University. 
 
