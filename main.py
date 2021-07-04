@@ -38,7 +38,7 @@ from torch.optim import lr_scheduler;
                                             # Description
 # --------------------------------------------------------------------------------------------- #
 '''
-We will compare the results of fine-tuning a linear classifier on top of the representations learned by simCLR and by a supervised resnet50 pretrained from pytorch.
+I will compare the results of fine-tuning a linear classifier on top of the representations learned by simCLR and by a supervised resnet50 pretrained from pytorch.
 
 The quality of the representations is measured by multiclass logistic regression.
 
@@ -69,8 +69,8 @@ if(downloaded == False):
 
 print("Checkpoint exists, continuing..");
 
-print("We will compare the results of fine-tuning a linear classifier on top of the representations learned by simCLR and by a supervised resnet50 pretrained from pytorch. ")
-print(f"We run for {epochs_num} epochs and train on {1-validation_size} of the dataset and validate on {validation_size} ")
+print("I will compare the results of fine-tuning a linear classifier on top of the representations learned by simCLR and by a supervised resnet50 pretrained from pytorch. ")
+print(f"I run for {epochs_num} epochs and train on {1-validation_size} of the dataset and validate on {validation_size} ")
 #%%
 from Data_Utilities import Get_SupervisedLoaders;
 print("------------------------------------------------------------------")
