@@ -28,5 +28,3 @@ It's obvious that supervised representation learning is still better, but unsupe
 
     I was using a pre-trained ResNet50 (x1) as the encoding-head and fine-tuning a multiclass logistic regression over it.
     I have decided to use the STL-10 dataset as my second dataset. Everything other than the model checkpoint will be downloaded automatically.
-
-    Requirement: PyTorch.
